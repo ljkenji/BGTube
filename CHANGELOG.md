@@ -1,5 +1,29 @@
 # Lịch sử phiên bản BGTube
 
+## v0.2.0
+
+### Tính năng chính
+- **Chế độ PIP (Hình trong hình) & Tự động PIP**:
+  - Xem video dưới dạng cửa sổ nổi hệ thống (PIP) và tùy chọn **Tự động PIP** khi vuốt ra màn hình chính trong **Cài đặt**.
+- **Hẹn giờ tắt thông minh**:
+  - Hẹn giờ dừng phát trong **Cài đặt** theo đếm ngược giờ/phút, chọn khung giờ cụ thể, hoặc tự động dừng khi hết video hiện tại / hết 1 vòng playlist.
+- **Tự động xoay ngang khi Fullscreen**:
+  - Tự động xoay ngang màn hình khi nhấn toàn màn hình ngay cả khi điện thoại đang khóa xoay dọc, và tự khôi phục về hướng cũ khi thoát.
+- **Thuyết minh video**:
+  - Thêm tính năng **Thuyết minh** trong **Cài đặt**: kiểm tra ngôn ngữ gốc của video, ưu tiên chuyển sang bản âm thanh/phụ đề sẵn có hoặc dịch và đọc qua Android Text-to-Speech mặc định.
+- **Tải phụ đề (CC) cho video**:
+  - Cho phép tải phụ đề theo ngôn ngữ gốc hoặc ngôn ngữ khác trong **Cài đặt**, đi kèm trình đọc/chỉnh sửa dạng vuốt đọc có bật/tắt mốc thời gian và sao chép nhanh.
+- **Chọn ngôn ngữ phụ đề & âm thanh trong trình phát**:
+  - Hiển thị lại tùy chọn chọn ngôn ngữ phụ đề và bản âm thanh ngay trong menu bánh răng của trình phát video.
+- **Bảng xếp hạng trên Trang chủ**:
+  - Thêm nút **Bảng xếp hạng** ngay bên phải nút **Tất cả** trên Trang chủ, mặc định mở tab **Thịnh hành** để xem nhanh các bảng xếp hạng video và bài hát nổi bật.
+- **Tùy chọn Ẩn Short**:
+  - Thêm nút bật/tắt **Ẩn Short** trong **Cài đặt** để ẩn video ngắn và các mục liên quan trên Trang chủ.
+- **Thống kê xem & nghe**:
+  - Theo dõi lượt xem, tổng thời gian xem/nghe, khung giờ xem thường xuyên và biểu đồ trực quan theo **Ngày / Tuần / Tháng / Năm** trong **Cài đặt**.
+- **Cải tiến Thư viện đã lưu & nút Lưu video**:
+  - Hỗ trợ chọn tất cả, xóa nhiều mục cùng lúc và xác nhận trước khi xóa trong **Thư viện đã lưu**; chỉ kích hoạt nút **Lưu video** ở thanh điều hướng dưới khi đang mở xem một video cụ thể.
+
 ## v0.1.0
 
 ### Tính năng chính
